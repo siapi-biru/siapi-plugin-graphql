@@ -27,7 +27,7 @@
     "koa-compose": "^4.1.0",
     "lodash": "4.17.21",
     "pluralize": "^8.0.0",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5"
+    "siapi-utils": "github:siapi-biru/siapi-utils"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
